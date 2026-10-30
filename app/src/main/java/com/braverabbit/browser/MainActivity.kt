@@ -436,7 +436,6 @@ class MainActivity : AppCompatActivity() {
             Site("Google", "https://www.google.com", "G", Color.parseColor("#4285F4")),
             Site("YouTube", "https://m.youtube.com", "Y", Color.parseColor("#E53935")),
             Site("Facebook", "https://m.facebook.com", "f", Color.parseColor("#1877F2")),
-            Site("Instagram", "https://www.instagram.com", "I", Color.parseColor("#C13584")),
             Site("TikTok", "https://www.tiktok.com", "T", Color.parseColor("#1B1B1B")),
             Site("Gmail", "https://mail.google.com", "M", Color.parseColor("#D93025"))
         )
