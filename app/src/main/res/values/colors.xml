@@ -1,0 +1,9 @@
+<resources>
+    <color name="ic_launcher_background">#0E1116</color>
+    <color name="br_bg">#FFFFFF</color>
+    <color name="br_surface">#EEF1F6</color>
+    <color name="br_text">#10151C</color>
+    <color name="br_text2">#5B6675</color>
+    <color name="br_accent">#1E6BFF</color>
+    <color name="br_danger">#D93025</color>
+</resources>

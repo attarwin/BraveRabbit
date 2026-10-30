@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.BraveRabbit" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/br_accent</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">@color/br_accent</item>
+        <item name="android:statusBarColor">@color/br_bg</item>
+        <item name="android:windowBackground">@color/br_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

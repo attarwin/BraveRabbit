@@ -1,0 +1,8 @@
+<resources>
+    <color name="br_bg">#0E1116</color>
+    <color name="br_surface">#1A1F27</color>
+    <color name="br_text">#E8ECF2</color>
+    <color name="br_text2">#98A2B3</color>
+    <color name="br_accent">#3D8BFF</color>
+    <color name="br_danger">#FF6B60</color>
+</resources>
